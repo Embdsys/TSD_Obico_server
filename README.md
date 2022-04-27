@@ -1,5 +1,10 @@
 # TheSpaghettiDetective
+
+**Embdsys notes:***
 **This commit donest have the sentry error 3b9f6f3552ff94ec6e829627e2ee9b1d27d81a28**
+**Be careful of http// and https// in octoprint plugin on pi**
+
+
 This repo is everything you need to run a server for [The Spaghetti Detective](https://thespaghettidetective.com), the coolest, AI-based solution for 3D printer remote management and monitoring.
 
 The core of this project is based on a Deep Learning model. [See how the model works on real data](https://app.thespaghettidetective.com/ent_pub/publictimelapses/).
