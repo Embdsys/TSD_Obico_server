@@ -1,8 +1,9 @@
 # TheSpaghettiDetective
 
 **Embdsys notes:***
-**This commit donest have the sentry error 3b9f6f3552ff94ec6e829627e2ee9b1d27d81a28**
-**Be careful of http// and https// in octoprint plugin on pi**
+**This commit donest have the sentry error 3b9f6f3552ff94ec6e829627e2ee9b1d27d81a28 \n**
+**Be careful of http// and https// in octoprint plugin on pi \n**
+Server address in octorpint http://192.168.0.6:3334
 
 
 This repo is everything you need to run a server for [The Spaghetti Detective](https://thespaghettidetective.com), the coolest, AI-based solution for 3D printer remote management and monitoring.
