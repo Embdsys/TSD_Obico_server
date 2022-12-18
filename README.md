@@ -1,5 +1,17 @@
 # TheSpaghettiDetective
 
+########################################################################################################################
+**WEBCAM NOT WORKING?**
+1) It works in octoprint but not in obico server?
+    ## Configure Django site
+
+1. In the same browser window, go to the address `http://your_server_ip:3334/admin/sites/site/1/change/`. Change "Domain name" to `your_server_ip:3334`. No "http://", "https://" prefix or trailing "/", otherwise it will NOT work. *Note: Deleting the original site and adding a new one won't work, thanks to the quirkiness of Django site.*
+
+2. Click "Save". Yes it's correct that Django is not as smart as most people think. ;)
+
+IF YOU DONT DO THIS IT WILL BE A PAINFUL ROAD BACK HERE
+#########################################################################################################################
+
 **Embdsys notes:***
 **This commit donest have the sentry error 3b9f6f3552ff94ec6e829627e2ee9b1d27d81a28 \n**
 **Be careful of http// and https// in octoprint plugin on pi \n**
